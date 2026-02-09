@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>SOC annalyst virtual lab</b>
-  - [Creating a Virtual lab for cybersecurity projects](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Virtual lab for cybersecurity projects](https://github.com/joshmadakor1/Algorithms-Practic)
 
 <h2> 🤳 Connect with me:</h2>
 
