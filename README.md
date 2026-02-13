@@ -2,7 +2,7 @@
   
 <h2>Cybersecurity Projects:</h2>
 
-- <b>SOC annalyst virtual lab</b>
+- <b>Cybersecurity annalyst virtual lab</b>
   - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
