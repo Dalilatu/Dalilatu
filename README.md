@@ -5,11 +5,6 @@
 - <b>Cybersecurity annalyst virtual lab</b>
   - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal)
   - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
-    
-- <b>Pentest and Red Team Projects</b>
-  - <strong>Web Application Testing</strong>
-     - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal)
-     - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
 
 
 <h2> 🤳 Connect with me:</h2>
