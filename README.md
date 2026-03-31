@@ -5,7 +5,7 @@
 - <b>Cybersecurity annalyst virtual lab</b>
   - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal)
   - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
-  - [Setting a SOC environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
+  - [Setting a SIEM environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
