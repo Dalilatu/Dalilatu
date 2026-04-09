@@ -1,12 +1,15 @@
 <h1>Hi, I'm Dalila! <br/><a href="https://github.com/Dalilatu">Cybersecurity Porfessional</a>,
   
-<h2>Cybersecurity Projects:</h2>
+<h2>Cybersecurity Portfolio:</h2>
 
-- <b>Cybersecurity annalyst virtual lab</b>
+- <b>SOC Projects</b>
   - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal)
   - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
   - [Setting a SIEM environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
-
+    <br/>
+ 
+- <b>Pentesting Projects</b>
+  
 
 <h2> 🤳 Connect with me:</h2>
 
