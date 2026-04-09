@@ -3,9 +3,10 @@
 <h2>Cybersecurity Portfolio:</h2>
 
 - <b>SOC Projects</b>
-  - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal)
-  - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
-  - [Setting a SIEM environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
+  - Building a SOC Home Lab with Splunk/Wazuh & Sysmon
+    - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal)
+    - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
+    - [Setting a SIEM environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
     <br/>
  
 - <b>Pentesting Projects</b>
