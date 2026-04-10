@@ -8,6 +8,8 @@
     - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
     - [Setting a SIEM environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
     <br/>
+  - Log Analysis and Threat Hunting
+    - [Cybersecurity Home Lab Setup](Link)
  
 - <b>Pentesting Projects</b>
   
