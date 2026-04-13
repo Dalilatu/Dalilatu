@@ -9,7 +9,7 @@
     - [Setting a SIEM environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
     <br/>
   - Log Analysis and Threat Hunting
-    - [Threat Hunting using Windows Event logs , Sysmon and Splunk](https://github.com/Dalilatu/Log-Analysis-and-Threat-hunting-using-Windows-Event-logs-and-splunk/blob/main/README.md)
+    - [Threat Hunting using Windows Event logs , Sysmon and Splunk](https://github.com/Dalilatu/Log-Analysis-and-Threat-hunting-using-Windows-Event-logs-and-splunk/tree/main)
  
 - <b>Pentesting Projects</b>
   
