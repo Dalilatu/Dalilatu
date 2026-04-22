@@ -7,6 +7,7 @@
     - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal)
     - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
     - [Setting a SIEM environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
+    - [Setting an Elasticsearch, Lagstash & Kibana (ELK) Stack environment](https://github.com/Dalilatu/ELK-Installation-environment)
     <br/>
   - Log Analysis and Threat Hunting
     - [Inserting Logs in Splunk](https://github.com/Dalilatu/Log-Analysis-and-Threat-hunting-using-Windows-Event-logs-and-splunk/tree/main)
