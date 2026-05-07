@@ -12,7 +12,7 @@
     <br/>
   - Log Analysis and Threat Hunting
     - [Inserting Logs in Splunk](https://github.com/Dalilatu/Log-Analysis-and-Threat-hunting-using-Windows-Event-logs-and-splunk/tree/main)
-    - [Threat Hunting 1 - Splunk Edition(https://github.com/Dalilatu/Threat-Hunting-1)
+    - [Threat Hunting 1 - Splunk Edition](https://github.com/Dalilatu/Threat-Hunting-1)
  
 - <b>Pentesting Projects</b>
   
