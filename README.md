@@ -7,13 +7,12 @@
     - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal)
     - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
     - [Setting a SIEM environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
+    - [Inserting Logs in Splunk](https://github.com/Dalilatu/Log-Analysis-and-Threat-hunting-using-Windows-Event-logs-and-splunk/tree/main)
     - [Setting a Wazuh Environment](https://github.com/Dalilatu/Setting-a-Wazuh-environment/tree/main)
     - [Setting a Wazuh Environment (Advanced Configurations)](https://github.com/Dalilatu/Advanced-Wazuh-setting)
     <br/>
-  - Log Analysis and Threat Hunting
-    - [Inserting Logs in Splunk](https://github.com/Dalilatu/Log-Analysis-and-Threat-hunting-using-Windows-Event-logs-and-splunk/tree/main)
+  - Incident Response and Threat Hunting
     - [Threat Hunting 1 - Splunk Edition](https://github.com/Dalilatu/Threat-Hunting-1)
-  - Incident Response
     - [Incident Response Lab 1](link)
  
 - <b>Pentesting Projects</b>
