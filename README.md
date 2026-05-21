@@ -15,7 +15,7 @@
     - [Threat Hunting 1 - Splunk Edition](https://github.com/Dalilatu/Threat-Hunting-1)
     - [Incident Response Lab 1](link)
  
-- <b>Pentesting Projects</b>
+- <b>Ethical Hacking Projects</b>
   
 
 <h2> 🤳 Connect with me:</h2>
