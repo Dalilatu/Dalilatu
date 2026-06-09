@@ -21,9 +21,12 @@
 
 [<img align="left" alt="Dalila | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dalila | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dalila | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 
 [twitter]: https://x.com/Dalilatu24
 [linkedin]: https://www.linkedin.com/in/kiven-dalila/pg
+[Medium]: https://medium.com/@kvdilayla4
+
 
 <!--
 **Dalilatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
