@@ -18,6 +18,8 @@
 - <b>Penetration Testing / Ethical Hacking Projects</b>
   - Building an API Penetration testing home lab.
     - [API Penetration Testing Home Lab Set Up ](https://github.com/Dalilatu/API-Penetration-test-home-lab)
+   
+- <b>Cloud Security</b>
 
 <h2> 🤳 Connect with me:</h2>
 
