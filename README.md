@@ -20,6 +20,8 @@
     - [API Penetration Testing Home Lab Set Up ](https://github.com/Dalilatu/API-Penetration-test-home-lab)
    
 - <b>Cloud Security</b>
+  - Cloud Architecture
+    - [Launching a Web Application](link here)
 
 <h2> 🤳 Connect with me:</h2>
 
