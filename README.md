@@ -21,7 +21,7 @@
    
 - <b>Cloud Security</b>
   - Cloud Architecture
-    - [AWS Web Application](https://github.com/Dalilatu/AWS-Employee-Directory-Application/tree/main))
+    - [AWS Web Application](https://github.com/Dalilatu/AWS-Employee-Directory-Application/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
