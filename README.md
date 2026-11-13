@@ -17,7 +17,11 @@
 - <b>Penetration Testing / Ethical Hacking Projects</b>
   - Building an API Penetration testing home lab.
     - [API Penetration Testing Home Lab Set Up ](https://github.com/Dalilatu/API-Penetration-test-home-lab/tree/main)
-   
+      
+- <b>DevSecOps</b>
+  - Code Review
+    - [SAST Implementation using Psalm tool](https://github.com/Dalilatu/Application-Security-With-SAST-Tools/tree/main)
+    - 
 - <b>Cloud Security</b>
   - Cloud Architecture
     - [AWS Web Application](https://github.com/Dalilatu/AWS-Employee-Directory-Application/tree/main)
