@@ -13,7 +13,6 @@
     <br/>
   - Incident Response and Threat Hunting
     - [Threat Hunting 1 - Splunk Edition](https://github.com/Dalilatu/Threat-Hunting-1/tree/main)
-    - [Incident Response Lab 1](link)
  
 - <b>Penetration Testing / Ethical Hacking Projects</b>
   - Building an API Penetration testing home lab.
