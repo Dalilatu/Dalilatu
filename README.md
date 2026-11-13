@@ -4,20 +4,20 @@
 
 - <b>SOC Projects</b>
   - Building a SOC Home Lab with Splunk/Wazuh & Sysmon
-    - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal)
-    - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory)
+    - [Cybersecurity Home Lab Setup](https://github.com/Dalilatu/Project-Page-Dal/tree/main)
+    - [Setting a Domain Controller](https://github.com/Dalilatu/Active-Directory/tree/main)
     - [Setting a SIEM environment](https://github.com/Dalilatu/Setting-a-SIEM-tool/tree/main)
     - [Inserting Logs in Splunk](https://github.com/Dalilatu/Log-Analysis-and-Threat-hunting-using-Windows-Event-logs-and-splunk/tree/main)
     - [Setting a Wazuh Environment](https://github.com/Dalilatu/Setting-a-Wazuh-environment/tree/main)
-    - [Setting a Wazuh Environment (Advanced Configurations)](https://github.com/Dalilatu/Advanced-Wazuh-setting)
+    - [Setting a Wazuh Environment (Advanced Configurations)](https://github.com/Dalilatu/Advanced-Wazuh-setting/tree/main)
     <br/>
   - Incident Response and Threat Hunting
-    - [Threat Hunting 1 - Splunk Edition](https://github.com/Dalilatu/Threat-Hunting-1)
+    - [Threat Hunting 1 - Splunk Edition](https://github.com/Dalilatu/Threat-Hunting-1/tree/main)
     - [Incident Response Lab 1](link)
  
 - <b>Penetration Testing / Ethical Hacking Projects</b>
   - Building an API Penetration testing home lab.
-    - [API Penetration Testing Home Lab Set Up ](https://github.com/Dalilatu/API-Penetration-test-home-lab)
+    - [API Penetration Testing Home Lab Set Up ](https://github.com/Dalilatu/API-Penetration-test-home-lab/tree/main)
    
 - <b>Cloud Security</b>
   - Cloud Architecture
